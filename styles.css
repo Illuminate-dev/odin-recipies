@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica, Arial;
+}
+
+h1 {
+    color: red;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    background-color: pink;
+    color: black;
+    border: 2px solid black;
+}
+
+.list li {
+    list-style: none; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
